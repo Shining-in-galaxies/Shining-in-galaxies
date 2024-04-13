@@ -1,8 +1,8 @@
 Hi! I'm Shin 😄
 ========================================================================================================================================
 
-🎓 CS Master's Student @ [San Francisco Bay University](https://www.linkedin.com/school/san-francisco-bay-university/)
-👩🏻‍💻 Aspiring Full Stack Engineer | Generative AI Dev
+🏫 CS Master's Student @ [San Francisco Bay University](https://www.linkedin.com/school/san-francisco-bay-university/)<br/>
+👩🏻‍💻 Aspiring Full Stack Engineer | Generative AI Dev<br/>
 🔍 Actively seeking a part-time internship for Summer 2024
 <br/>
 
