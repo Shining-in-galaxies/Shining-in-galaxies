@@ -2,7 +2,7 @@ Hi! I'm Shin 😄
 ========================================================================================================================================
 
 🏫 CS Master's Student @ [San Francisco Bay University](https://www.linkedin.com/school/san-francisco-bay-university/)<br/>
-👩🏻‍💻 Generative AI Dev | Full Stack Engineer<br/>
+👩🏻‍💻 Generative AI Dev | Machine Learning Engineer | Full-Stack Engineer<br/>
 <br/>
 
 ### Skills
