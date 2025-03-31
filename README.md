@@ -1,10 +1,11 @@
-Hi! I'm Shin 😄
-========================================================================================================================================
+Hi! I'm Shin 😄  
+======================
 
-🚀 AI + E-Commerce Founder
+🚀 AI + E-Commerce Founder  
 👩🏻‍💻 Gen-AI Dev | Machine Learning Engineer | Full-Stack Engineer  
 
-<br/>
+---
+
 ### Socials
 
 <div id="badges">
